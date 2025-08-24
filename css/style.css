@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 body{
-    /* height: 10000px; */
     font-family:fantasy
 
 }
@@ -287,7 +286,7 @@ header .list-right li .ico-div:hover i{
     width: 22px;
     height: 22px;
     position: absolute;
-    right: 91px;
+    right: 85px;
     top: 18px;
     border-radius: 50%;
     text-align: center;
@@ -334,7 +333,7 @@ main{
     letter-spacing: 2px;
 }
 .main-content{
-    width: 26%;
+    width: 30%;
     position: absolute;
     top: 50%;
     left: 140px;
