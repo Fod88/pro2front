@@ -12,7 +12,7 @@ header{
 
 }
 .list-left{
-    width:17%;
+    width:20%;
     display: flex;
     flex-flow: row wrap;
     justify-content: space-evenly;
@@ -286,7 +286,7 @@ header .list-right li .ico-div:hover i{
     width: 22px;
     height: 22px;
     position: absolute;
-    right: 80px;
+    right: 0px;
     top: 18px;
     border-radius: 50%;
     text-align: center;
